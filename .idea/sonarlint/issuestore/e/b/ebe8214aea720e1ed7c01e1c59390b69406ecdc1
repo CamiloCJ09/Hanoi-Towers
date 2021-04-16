@@ -1,0 +1,23 @@
+
+<
+java:S3010"Remove this assignment of "sc".(¤Ë‹þ8¯šÙÃ/
+G
+java:S1068"%Remove this unused "i" private field.(ß÷­äüÿÿÿÿ8ó•˜Ä/
+C
+java:S3010"&Remove this assignment of "secondBar".(“á±«8Ý€÷Œ/
+G
+java:S3010"%Remove this assignment of "firstBar".(æŸÜôüÿÿÿÿ8Ý€÷Œ/
+
+java:S13196"mThe type of the "to" object should be an interface such as "List" rather than the implementation "ArrayList".(êøÊ¯þÿÿÿÿ8¨éîÃ/
+‘
+java:S1319C"oThe type of the "from" object should be an interface such as "List" rather than the implementation "ArrayList".(Î•Žìüÿÿÿÿ8¨éîÃ/
+‘
+java:S13196"oThe type of the "from" object should be an interface such as "List" rather than the implementation "ArrayList".(êøÊ¯þÿÿÿÿ8¨éîÃ/
+
+java:S13196"nThe type of the "aux" object should be an interface such as "List" rather than the implementation "ArrayList".(êøÊ¯þÿÿÿÿ8¨éîÃ/
+W
+java:S11171"5Rename "i" which hides the field declared at line 12.(±á¦²üÿÿÿÿ8ó•˜Ä/
+
+java:S1319C"mThe type of the "to" object should be an interface such as "List" rather than the implementation "ArrayList".(Î•Žìüÿÿÿÿ8¨éîÃ/
+G
+java:S3010"%Remove this assignment of "thirdBar".(×©¯ðþÿÿÿÿ8Ý€÷Œ/
