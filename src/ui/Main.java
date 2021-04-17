@@ -9,7 +9,6 @@ public class Main {
     private  static ArrayList<Integer> secondBar;
     private static ArrayList<Integer> thirdBar;
     private static Scanner sc;
-    private int i;
 
 
     public Main(){
@@ -17,7 +16,6 @@ public class Main {
         secondBar = new ArrayList<>();
         thirdBar = new ArrayList<>();
         sc = new Scanner(System.in);
-        i = 1;
     }
     public static void main(String [] args){
         Main main = new Main();
