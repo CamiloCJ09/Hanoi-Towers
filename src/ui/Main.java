@@ -52,6 +52,10 @@ public class Main {
     }
 
     public static void solve(int numOfDisks, ArrayList<Integer> from, ArrayList<Integer> to, ArrayList<Integer> aux){
+        if(numOfDisks == 0){
+            System.out.println(firstBar.size()+" "+ secondBar.size()+" "+thirdBar.size());
+            return;
+        }
         if(numOfDisks == 1){
             System.out.println(firstBar.size()+" "+ secondBar.size()+" "+thirdBar.size());
             move(from, to);
